@@ -3,5 +3,7 @@ I plan to create a 'eWallet' that can read and emulate NFC tags to use in on a l
 SwiftUI, coreData(future), CoreNFC
 
 Applications - Using it on a gatescanner, store nfc data, etc
+
 eWallet is under the MIT License. 
+
 Copyright (c) 2024 Ted Tan
