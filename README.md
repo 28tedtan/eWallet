@@ -4,3 +4,4 @@ SwiftUI, coreData(future), CoreNFC
 
 Applications - Using it on a gatescanner, store nfc data, etc
 eWallet is under the MIT License. 
+Copyright (c) 2024 28tedtan
